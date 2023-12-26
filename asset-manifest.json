@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-day-6-classwork/static/css/main.7205325c.css",
+    "main.js": "/react-day-6-classwork/static/js/main.6fb70d62.js",
+    "static/js/787.e649acdc.chunk.js": "/react-day-6-classwork/static/js/787.e649acdc.chunk.js",
+    "static/media/logo.svg": "/react-day-6-classwork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-day-6-classwork/index.html",
+    "main.7205325c.css.map": "/react-day-6-classwork/static/css/main.7205325c.css.map",
+    "main.6fb70d62.js.map": "/react-day-6-classwork/static/js/main.6fb70d62.js.map",
+    "787.e649acdc.chunk.js.map": "/react-day-6-classwork/static/js/787.e649acdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7205325c.css",
+    "static/js/main.6fb70d62.js"
+  ]
+}
