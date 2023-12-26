@@ -1,11 +1,12 @@
 import React, { useState } from 'react'
 
-const Dropdown = () => {
+const Dropdown = (prop) => {
     const [year, yearChange] = useState(5)
     const handleYearChange = (e)=> {
         yearChange(e.target.value)
-        console.log(year)
+        prop.getValue(e.target.value)
     }
+
   return (
     <div style={{margin:'20px'}}>
         <p>Tenure</p>
